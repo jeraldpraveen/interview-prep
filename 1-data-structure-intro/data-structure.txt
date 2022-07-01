@@ -1,0 +1,15 @@
+Q.1.What are data structures ? 
+Ans: Data Structures is a way of organizing data that is stored in a DB or computer.
+     There are many DS. Each DS represents a unique way of organizing the data
+
+Q.2.Why different types of DS exists ?
+Ans: Every DS has its own advantages and weakness.
+     Some DS are fast at storing and recording data
+     Other DS are fast at searching and retriving the data.
+     In short, some DS saves data fast & some  DS retrives data fast.
+
+Q.3.Why are DS important ?
+Ans: - Can have big importance on performance.
+     - Can have a big impact on how quick and efficient a program runs.
+     - Example : Linked List --> Fast in storing
+     - Example : Hash Table --> Fast in retriving data
